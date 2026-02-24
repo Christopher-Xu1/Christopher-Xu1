@@ -1,35 +1,31 @@
 # Christopher Xu
-
-NYU Math+CS 
 AI Research | Quantitative Modeling | Applied Mathematics  
 
-📫 xuchris@nyu.edu  
+Reach me at - xuchris@nyu.edu  
 
-## Tech Stack
+## Skills
 
-### Data & Machine Learning
+### AI/ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Scanpy](https://img.shields.io/badge/Scanpy-2C6DB2?style=flat)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-
-### AI Systems & Retrieval
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
 ![Chroma](https://img.shields.io/badge/Chroma-5A29E4?style=flat)
 ![MCP](https://img.shields.io/badge/MCP-333333?style=flat)
 ![BrowserUse](https://img.shields.io/badge/BrowserUse-333333?style=flat)
+![Scanpy](https://img.shields.io/badge/Scanpy-2C6DB2?style=flat)
 
-### Statistical Methods
+### Data & Statistics
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat)
+![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-111111?style=flat)
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-111111?style=flat)
 ![Monte Carlo](https://img.shields.io/badge/Monte%20Carlo-111111?style=flat)
-![Time Series](https://img.shields.io/badge/Time%20Series-111111?style=flat)
 ![Stochastic Modeling](https://img.shields.io/badge/Stochastic%20Modeling-111111?style=flat)
 
 ### Systems
@@ -38,6 +34,7 @@ AI Research | Quantitative Modeling | Applied Mathematics
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## About Me
@@ -46,29 +43,24 @@ Bay Area native now based in NYC. I build quantitative and AI systems for modeli
 
 My current interests are in pure math, AI, and strategy games.
 
+SAIL — Dual-pipeline AI system for structured extraction of 10-Q/10-K filings achieving 99%+ table accuracy and <30s end-to-end processing.
 
-## Projects
+Leveraged ETF Convexity Research — Derived a drift–variance decomposition isolating structural volatility decay and implemented a modular backtesting framework with realistic trading frictions and permutation-based Monte Carlo stress tests.
 
-- SAIL — Built a dual-pipeline AI system extracting structured tables and narrative insights from 10-Q/10-K filings with 99%+ table accuracy and <30s end-to-end processing.
+Fed Policy Rate Prediction — Built a walk-forward validated, regime-aware macro model combining economic factors with FOMC transcript embeddings.
 
-- Leveraged ETF Convexity Research — Derived drift–variance decomposition isolating structural volatility decay and implemented modular backtesting with realistic condidtions and permutation-based Monte Carlo stress tests
+FSHD Markov Model — Designed a stochastic Markov chain model optimized via Bayesian inference in Python, improving interpretability and increasing predictive accuracy by 15%.
 
-- Fed Policy Rate Prediction — Combined macroeconomic factors with FOMC transcript embeddings to build a walk-forward validated regime-aware rate prediction model
+Volatility Analytics Dashboard — Engineered a real-time volatility modeling platform computing convexity, skew curvature, and term-structure metrics across SPY, VIX futures, and volatility-linked ETPs.
 
-- FSHD Markov Model — Designed a stochastic Markov Chain model optimized via Bayesian methods in Python, enhancing model interpretability and boosting predictive accuracy by 15%
-  
-- Volatility Analytics Dashboard — Developed a real-time volatility monitoring system with custom metrics for convexity decay, skew curvature, and term-structure dynamics for SPY and VIX futures, ETF, and ETP derivative instruments.
+Options Strategy Scanner — Developed a real-time screening engine using IBKR options data to evaluate Greeks and implied–realized volatility spreads for systematic trade identification.
 
-- Options Strategy Scanner — Built a real-time screening engine using IBKR options data to evaluate Greeks and volatility spreads to identify potential entry oppurtunities for my options strategies. 
-
-
-See pinned repositories for open source projects.
 
 ## Education
 
-New York University 
+New York University     
 B.A. Honors Mathematics and Computer Science
 
-Honors Probability Theory, Honors Real Analysis, Abstract Algebra, Honors Linear Algebra, Combinatorics, Honors Multivariable Calculus, Econometrics
+Honors Probability Theory, Honors Real Analysis, Abstract Algebra, Honors Linear Algebra, Combinatorics, Honors Multivariable Calculus
 
-Natural Language Processing, Operating Systems, Computer System Organization, Algorithms, Data Structures, AI Product Management, Databases for Business Analytics, Reinforcement Learning for Business
+Natural Language Processing, Operating Systems, Computer System Organization, Algorithms, Data Structures, Econometrics, AI Product Management, Database Analytics, Reinforcement Learning for Business
