@@ -43,6 +43,8 @@ Bay Area native now based in NYC. I build quantitative and AI systems for modeli
 
 My current interests are in pure math, AI, and strategy games.
 
+## Projects
+
 SAIL — Dual-pipeline AI system for structured extraction of 10-Q/10-K filings achieving 99%+ table accuracy and <30s end-to-end processing.
 
 Leveraged ETF Convexity Research — Derived a drift–variance decomposition isolating structural volatility decay and implemented a modular backtesting framework with realistic trading frictions and permutation-based Monte Carlo stress tests.
