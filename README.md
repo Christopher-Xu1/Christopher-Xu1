@@ -41,7 +41,7 @@ Reach me at - xuchris@nyu.edu
 
 Bay Area native now based in NYC. I build quantitative and AI systems for modeling complex, uncertain environments. My work spans stochastic modeling, volatility research, computational biology, and large-scale LLM pipelines, with an emphasis on robustness and interpretability.
 
-My current interests are in pure math, AI, and strategy games.
+My current interests are in pure math, AI, and neuroscience.
 
 ## Projects
 
